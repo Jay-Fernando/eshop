@@ -1,4 +1,5 @@
-# online-shopping-with-advanced-admin-page
+# online-shopping-with-advanced-admin-page      
+This is a E SHOP E-Commerce website designed by 19.1 Batch in ordr to make shopping easy.
 Updated version
 
 
